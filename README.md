@@ -19,7 +19,7 @@
 class MechatronicsEngineer:
     def __init__(self):
         self.name = "Santiago Florido Gómez"
-        self.role = "Mechatronics Engineering Student"
+        self.role = "Mechatronics Engineer"
         self.location = "🌎"
         self.languages = ["Spanish", "English", "French"]
         
@@ -74,35 +74,58 @@ Embedded-to-Web Interfaces
 
 ## 🚀 Featured Projects
 
-<div align="left">
+<div align="center">
 
-### 🏥 Biomedical Systems
-
-- [Neonatal-incubator-with-response-to-apnea-episodes](https://github.com/Santiago23florido/Neonatal-incubator-with-response-to-apnea-episodes)  
-  AI-powered neonatal incubator with real-time response to central apnea episodes using bio-signal analysis and ML.
-- [Neonatal-Incubator-Dynamic-Model-and-Control](https://github.com/Santiago23florido/Neonatal-Incubator-Dynamic-Model-and-Control)  
-  Thermodynamic and dynamic model of a neonatal incubator with PID and incremental RST control design.
-
-### 🤖 Robotics & Automation
-
-- [Scara-web-controlled-robotic-arm](https://github.com/Santiago23florido/Scara-web-controlled-robotic-arm)  
-  Web-controlled SCARA robotic arm integrating MicroPython, Arduino, and real-time interaction.
-- [Deep-Drive-APEX-sim](https://github.com/Santiago23florido/Deep-Drive-APEX-sim)  
-  ROS 2 and Gazebo autonomous driving simulation focused on path planning and execution.
-
-### ⚙️ Systems & Performance
-
-- [MicroKernel-Secure-Execution-Platform](https://github.com/Santiago23florido/MicroKernel-Secure-Execution-Platform)  
-  Experimental microkernel platform exploring secure execution, IPC, memory management, and threading.
-- [FFT-Optimization-Research](https://github.com/Santiago23florido/FFT-Optimization-Research)  
-  C++ framework for FFT optimization, benchmarking, and verification of algorithmic performance.
-
-### 🖼️ Computer Vision & Audio
-
-- [Robust-Image-Matching-with-Local-Features](https://github.com/Santiago23florido/Robust-Image-Matching-with-Local-Features)  
-  OpenCV-based experiments for robust image matching with local-feature extraction and comparison.
-- [Musique-et-l-Art](https://github.com/Santiago23florido/Musique-et-l-Art)  
-  Interactive audio FFT visualizer for spectral analysis and real-time signal inspection.
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/Santiago23florido/Neonatal-incubator-with-response-to-apnea-episodes">
+  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Neonatal-incubator-with-response-to-apnea-episodes.svg" alt="Neonatal incubator card"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Santiago23florido/Neonatal-Incubator-Dynamic-Model-and-Control">
+  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Neonatal-Incubator-Dynamic-Model-and-Control.svg" alt="Neonatal dynamic model card"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Santiago23florido/Scara-web-controlled-robotic-arm">
+  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Scara-web-controlled-robotic-arm.svg" alt="Scara robotic arm card"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Santiago23florido/Deep-Drive-APEX-sim">
+  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Deep-Drive-APEX-sim.svg" alt="Deep Drive Apex card"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Santiago23florido/MicroKernel-Secure-Execution-Platform">
+  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/MicroKernel-Secure-Execution-Platform.svg" alt="MicroKernel card"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Santiago23florido/FFT-Optimization-Research">
+  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/FFT-Optimization-Research.svg" alt="FFT optimization card"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Santiago23florido/Robust-Image-Matching-with-Local-Features">
+  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Robust-Image-Matching-with-Local-Features.svg" alt="Image matching card"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Santiago23florido/Musique-et-l-Art">
+  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Musique-et-l-Art.svg" alt="Musique et l Art card"/>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
