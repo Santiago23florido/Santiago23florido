@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-florido-gómez-722193232/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santiago23florido)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:7DD3FC,100:1E3A8A&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 </div>
 
@@ -72,6 +72,42 @@ Embedded-to-Web Interfaces
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="left">
+
+### 🏥 Biomedical Systems
+
+- [Neonatal-incubator-with-response-to-apnea-episodes](https://github.com/Santiago23florido/Neonatal-incubator-with-response-to-apnea-episodes)  
+  AI-powered neonatal incubator with real-time response to central apnea episodes using bio-signal analysis and ML.
+- [Neonatal-Incubator-Dynamic-Model-and-Control](https://github.com/Santiago23florido/Neonatal-Incubator-Dynamic-Model-and-Control)  
+  Thermodynamic and dynamic model of a neonatal incubator with PID and incremental RST control design.
+
+### 🤖 Robotics & Automation
+
+- [Scara-web-controlled-robotic-arm](https://github.com/Santiago23florido/Scara-web-controlled-robotic-arm)  
+  Web-controlled SCARA robotic arm integrating MicroPython, Arduino, and real-time interaction.
+- [Deep-Drive-APEX-sim](https://github.com/Santiago23florido/Deep-Drive-APEX-sim)  
+  ROS 2 and Gazebo autonomous driving simulation focused on path planning and execution.
+
+### ⚙️ Systems & Performance
+
+- [MicroKernel-Secure-Execution-Platform](https://github.com/Santiago23florido/MicroKernel-Secure-Execution-Platform)  
+  Experimental microkernel platform exploring secure execution, IPC, memory management, and threading.
+- [FFT-Optimization-Research](https://github.com/Santiago23florido/FFT-Optimization-Research)  
+  C++ framework for FFT optimization, benchmarking, and verification of algorithmic performance.
+
+### 🖼️ Computer Vision & Audio
+
+- [Robust-Image-Matching-with-Local-Features](https://github.com/Santiago23florido/Robust-Image-Matching-with-Local-Features)  
+  OpenCV-based experiments for robust image matching with local-feature extraction and comparison.
+- [Musique-et-l-Art](https://github.com/Santiago23florido/Musique-et-l-Art)  
+  Interactive audio FFT visualizer for spectral analysis and real-time signal inspection.
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -114,134 +150,13 @@ Embedded-to-Web Interfaces
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 Biomedical Systems
-
-<a href="https://github.com/Santiago23florido/Neonatal-incubator-with-response-to-apnea-episodes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago23florido&repo=Neonatal-incubator-with-response-to-apnea-episodes&theme=tokyonight&hide_border=true" />
-</a>
-
-**🫁 AI-Powered Neonatal Incubator**
-- Real-time apnea detection
-- Bio-signal processing & ML
-- Automated intervention system
-
-<a href="https://github.com/Santiago23florido/Neonatal-Incubator-Dynamic-Model-and-Control">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago23florido&repo=Neonatal-Incubator-Dynamic-Model-and-Control&theme=tokyonight&hide_border=true" />
-</a>
-
-**🌡️ Temperature Control System**
-- Thermodynamic modeling
-- PID & incremental RST control
-- System identification
-
-</td>
-<td width="50%">
-
-### 🤖 Robotics & Automation
-
-<a href="https://github.com/Santiago23florido/Scara-web-controlled-robotic-arm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago23florido&repo=Scara-web-controlled-robotic-arm&theme=tokyonight&hide_border=true" />
-</a>
-
-**🦾 Web-Controlled SCARA Arm**
-- MicroPython + Arduino
-- Real-time web interface
-- Inverse kinematics
-
-<a href="https://github.com/Santiago23florido/Deep-Drive-APEX-sim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago23florido&repo=Deep-Drive-APEX-sim&theme=tokyonight&hide_border=true" />
-</a>
-
-**🛰️ ROS 2 Autonomous Navigation**
-- Gazebo simulation
-- Path planning algorithms
-- Autonomous execution
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ Systems & Performance
-
-<a href="https://github.com/Santiago23florido/MicroKernel-Secure-Execution-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago23florido&repo=MicroKernel-Secure-Execution-Platform&theme=tokyonight&hide_border=true" />
-</a>
-
-**🧠 MicroKernel OS Platform**
-- Custom OS concepts
-- IPC & memory management
-- Multi-threading
-
-<a href="https://github.com/Santiago23florido/FFT-Optimization-Research">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago23florido&repo=FFT-Optimization-Research&theme=tokyonight&hide_border=true" />
-</a>
-
-**⚡ FFT Optimization Framework**
-- C++20 implementation
-- Performance benchmarking
-- Algorithm verification
-
-</td>
-<td width="50%">
-
-### 🖼️ Computer Vision & Audio
-
-<a href="https://github.com/Santiago23florido/Robust-Image-Matching-with-Local-Features">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago23florido&repo=Robust-Image-Matching-with-Local-Features&theme=tokyonight&hide_border=true" />
-</a>
-
-**🧩 Robust Image Matching**
-- Local feature detection
-- OpenCV experiments
-- Feature engineering
-
-<a href="https://github.com/Santiago23florido/Musique-et-l-Art">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santiago23florido&repo=Musique-et-l-Art&theme=tokyonight&hide_border=true" />
-</a>
-
-**🎵 Audio FFT Visualizer**
-- Streamlit web app
-- Real-time processing
-- Interactive visualization
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Santiago23florido&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
+<img src="https://streak-stats.demolab.com?user=Santiago23florido&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats" />
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Santiago23florido&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago23florido&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago23florido&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="47%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santiago23florido&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santiago23florido&theme=tokyo-night&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph"/>
 
 </div>
 
@@ -310,7 +225,7 @@ I'm actively seeking:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7DD3FC,100:1E3A8A" width="100%"/>
 
 
 
