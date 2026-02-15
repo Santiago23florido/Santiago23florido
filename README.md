@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=210&color=0:00D9FF,100:1F6FEB&text=Santiago%20Florido%20G%C3%B3mez&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=52" width="100%" alt="Santiago animated banner" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=210&color=0:00D9FF,100:1F6FEB&text=Santiago%20Florido%20G%C3%B3mez&fontSize=48&fontColor=FFFFFF&stroke=1E3A8A&strokeWidth=2&animation=twinkling&fontAlignY=52" width="100%" alt="Santiago animated banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Mechatronics+Engineer;Control+Systems+%26+Robotics;Machine+Learning+%26+Signal+Processing;Quantum+Computing+Enthusiast" alt="Typing SVG" />
 
@@ -179,8 +179,6 @@ Embedded-to-Web Interfaces
 
 <img src="https://streak-stats.demolab.com?user=Santiago23florido&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santiago23florido&theme=tokyo-night&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph"/>
-
 </div>
 
 ---
@@ -244,7 +242,7 @@ I'm actively seeking:
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-florido-gómez-722193232/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.florido@ensta-paris.fr)
 
 ---
 
