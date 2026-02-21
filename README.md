@@ -72,65 +72,6 @@ Embedded-to-Web Interfaces
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/Santiago23florido/Neonatal-incubator-with-response-to-apnea-episodes">
-  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Neonatal-incubator-with-response-to-apnea-episodes.svg" alt="Neonatal incubator card"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/Santiago23florido/Neonatal-Incubator-Dynamic-Model-and-Control">
-  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Neonatal-Incubator-Dynamic-Model-and-Control.svg" alt="Neonatal dynamic model card"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/Santiago23florido/Scara-web-controlled-robotic-arm">
-  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Scara-web-controlled-robotic-arm.svg" alt="Scara robotic arm card"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/Santiago23florido/Deep-Drive-APEX-sim">
-  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Deep-Drive-APEX-sim.svg" alt="Deep Drive Apex card"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/Santiago23florido/MicroKernel-Secure-Execution-Platform">
-  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/MicroKernel-Secure-Execution-Platform.svg" alt="MicroKernel card"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/Santiago23florido/FFT-Optimization-Research">
-  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/FFT-Optimization-Research.svg" alt="FFT optimization card"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/Santiago23florido/Robust-Image-Matching-with-Local-Features">
-  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Robust-Image-Matching-with-Local-Features.svg" alt="Image matching card"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/Santiago23florido/Musique-et-l-Art">
-  <img width="100%" src="https://gh-card.dev/repos/Santiago23florido/Musique-et-l-Art.svg" alt="Musique et l Art card"/>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -177,7 +118,9 @@ Embedded-to-Web Interfaces
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Santiago23florido&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=santiago23florido&theme=tokyonight&hide_border=true&background=0D1117&mode=daily&starting_year=2022&short_numbers=false&cache_bust=20260221" alt="GitHub streak stats" />
+
 
 </div>
 
@@ -191,21 +134,38 @@ Embedded-to-Web Interfaces
 
 <table>
 <tr>
-<td width="50%" align="left">
+<td width="50%" align="left" valign="top">
 <h3>🚀 Current Goals</h3>
+<p><b>Robotics & Control</b></p>
 <ul>
   <li>Build end-to-end <b>ROS 2 + Gazebo</b> autonomous navigation pipelines.</li>
   <li>Deepen <b>advanced control</b> design (PID/RST + robust tuning).</li>
+</ul>
+<p><b>ML & Research Output</b></p>
+<ul>
   <li>Publish stronger project outcomes in <b>ML + signal processing</b>.</li>
+</ul>
+<p><b>Career Target</b></p>
+<ul>
   <li>Prepare for a <b>Quantum Computing internship</b> (target: May 2026).</li>
 </ul>
 </td>
-<td width="50%" align="left">
+<td width="50%" align="left" valign="top">
 <h3>🔍 Main Interests</h3>
+<p><b>Systems & Modeling</b></p>
 <ul>
   <li>Dynamic systems modeling and system identification.</li>
+</ul>
+<p><b>Applied Signal Processing</b></p>
+<ul>
   <li>Signal processing for real-world biomedical and robotic data.</li>
+</ul>
+<p><b>Intelligent Control Pipelines</b></p>
+<ul>
   <li>ML pipelines for control-oriented decision systems.</li>
+</ul>
+<p><b>Robotics Productization</b></p>
+<ul>
   <li>Embedded-to-web integration for robotics interfaces.</li>
 </ul>
 </td>
