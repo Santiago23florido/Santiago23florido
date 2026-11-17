@@ -87,9 +87,6 @@ Embedded Systems, ROS 2
 
 ## 🔬 Research Experience
 
-**Visiting Research Student** — Neuromechanics & Rehabilitation Technology Group, *Imperial College London*  ·  **Apr–Sep 2027 (incoming)**
-Prof. Dario Farina, with Matteo Pizzi. Decomposition of high-density surface EMG **during hand movement**: translating neuromuscular activity into reliable representations of motor intention under changing movement conditions.
-
 **Research Intern (PRe)** — équipe TAU / LISN, *Inria Saclay — Université Paris-Saclay*  ·  **May–Aug 2026**
 Neural-architecture growth for frugal learning. Certified functional descent: using functional-gradient information in the tangent space of the network to decide when a model should grow rather than keep training. Led to a first-author paper accepted at the AXIOM workshop, NeurIPS 2026.
 
